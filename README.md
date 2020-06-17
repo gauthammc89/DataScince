@@ -4,3 +4,6 @@ Data cleaning
 Data visualization using pie chart
 hypothesis testing 
 chi square test
+RandomForestClassifier
+accuracy_score
+train_test_split
