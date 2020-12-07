@@ -7,3 +7,4 @@ chi square test
 RandomForestClassifier
 accuracy_score
 train_test_split
+Connecting to MongoDB and extracting data to data frame
